@@ -1,10 +1,11 @@
 {
-    "name": "laravel/laravel",
+    "name": "aquaswim/laravel-with-voyager",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Laravel installation with voyage and ide-helper.",
     "keywords": [
         "framework",
-        "laravel"
+        "laravel",
+        "voyager"
     ],
     "license": "MIT",
     "require": {
